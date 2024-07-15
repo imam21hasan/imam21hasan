@@ -1,13 +1,15 @@
 <h1 align="center">🧑‍💻 Empowering the future with Code and Creativity</h1>
-<h3 align="center">⚙️Technology visionary</h3>
+<h2 align="center">⚙️Technology visionary</h2>
+
+<h2 align="center"> Assalamu walaikum,I’m Imam Hasan Shawon,a passionate developer and tech enthusiast dedicated to creating innovative and efficient solutions through code with a strong foundation in C,C++,Java.I love tackling complex problems and transforming ideas into reality.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imam21hasan&label=Profile%20views&color=0e75b6&style=flat" alt="imam21hasan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imam21hasan" alt="imam21hasan" /></a> </p>
 
 - 🧑‍🎓 I’m currently studying **Computer Science**
+- 🧠 I'm currently learning **Data Structure and Algorithm**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
