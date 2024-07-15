@@ -1,5 +1,5 @@
 <h1 align="center">🧑‍💻 Empowering the future with Code and Creativity</h1>
-<h2 align="center">⚙️Technology visionary</h2>
+<h2 align="center">⚙️ I'm Technology visionary </h2>
 
 <h2 align="center"> Assalamu walaikum,I’m Imam Hasan Shawon,a passionate developer and tech enthusiast dedicated to creating innovative and efficient solutions through code with a strong foundation in C,C++,Java.I love tackling complex problems and transforming ideas into reality.</h2>
 
