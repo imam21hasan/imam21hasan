@@ -3,7 +3,8 @@
 
 <img align="center" alt="Welcome to my GitHub" width="800" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 
-<h2 align="center"> Assalamu walaikum,I’m <h1>Imam Hasan Shawon</h1>,a passionate developer and tech enthusiast dedicated to creating innovative and efficient solutions through code with a strong foundation in <h1>C,C++,Java,JavaScript,HTML,CSS</h1>.I love tackling complex problems and transforming ideas into reality.</h2>
+<h2 align="center">Assalamu walaikum, I’m <span style="color: #0b92f8;">Imam Hasan Shawon</span>, a passionate developer and tech enthusiast dedicated to creating innovative and efficient solutions through code with a strong foundation in <span style="color: green;">C, C++, Java, JavaScript, HTML, CSS</span>. I love tackling complex problems and transforming ideas into reality.</h2>
+
 
 - 🧑‍🎓 I’m currently studying *Computer Science*
 - 🧠 I'm currently learning *Data Structure and Algorithm*
