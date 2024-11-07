@@ -5,12 +5,21 @@
 
 <h2 align="center"> Assalamu walaikum,I’m Imam Hasan Shawon,a passionate developer and tech enthusiast dedicated to creating innovative and efficient solutions through code with a strong foundation in C,C++,Java,JavaScript,HTML,CSS.I love tackling complex problems and transforming ideas into reality.</h2>
 
+- 🧑‍🎓 I’m currently studying *Computer Science*
+- 🧠 I'm currently learning *Data Structure and Algorithm*
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imam21hasan&label=Profile%20views&color=0e75b6&style=flat" alt="imam21hasan" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imam21hasan" alt="imam21hasan" /></a> </p>
 
-- 🧑‍🎓 I’m currently studying *Computer Science*
-- 🧠 I'm currently learning *Data Structure and Algorithm*
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nazmula123)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmula123)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmula123&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nazmula123)  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
