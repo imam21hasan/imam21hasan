@@ -6,8 +6,8 @@
 <h2 align="center">Assalamu walaikum, I’m <span color="#0b92f8">Imam Hasan Shawon</span>, a passionate developer and tech enthusiast dedicated to creating innovative and efficient solutions through code with a strong foundation in <span color=green">C, C++, Java, JavaScript, HTML, CSS</span>. I love tackling complex problems and transforming ideas into reality.</h2>
 
 
-- 🧑‍🎓 I’m currently studying <h3>*Computer Science*</h3>
-- 🧠 I'm currently learning <h3>*Data Structure and Algorithm*</h3>
+- 🧑‍🎓 I’m currently studying <h4>*Computer Science*</h4>
+- 🧠 I'm currently learning <h4>*Data Structure and Algorithm*</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imam21hasan&label=Profile%20views&color=0e75b6&style=flat" alt="imam21hasan" /> </p>
 
