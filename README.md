@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://worldvectorlogo.com/logo/tailwind-css-2" alt="tailwindcss" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwindcss" width="40" height="40"/>
 </a>
 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
