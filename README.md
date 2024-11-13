@@ -34,8 +34,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://github.com" target="_blank" rel="noreferrer" class="flex items-center justify-center w-10 h-10">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" class="w-10 h-10"/>
+  <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
 </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
