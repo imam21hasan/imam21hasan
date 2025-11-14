@@ -52,7 +52,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-  <img src="PATH_TO_YOUR_ASM_ICON.svg" alt="assembly" width="40" height="40"/>
+  <svg width="40" height="40" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-label="assembly">
+    <rect rx="12" ry="12" width="100" height="100" fill="#2d2d2d"/>
+    <text x="50%" y="54%" font-family="Segoe UI, Roboto, Arial" font-size="48" fill="#ffd166" text-anchor="middle" alignment-baseline="middle">ASM</text>
+  </svg>
 </a>
 
 
